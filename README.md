@@ -4,7 +4,7 @@ PvP/PvE HUD for Dual Universe
 
 hold left shift (with remote control active) to see controls helper.
 
-![HUD concept](https://github.com/anatoly-kussul/du-wthud/blob/master/images/1.png)
+![HUD concept](/images/1.png?raw=true)
 
 # installation
 gunner manual links:
