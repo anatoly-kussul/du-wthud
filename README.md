@@ -17,11 +17,25 @@ remote controller manual links:
 - space fuel tank (only one)
 - same databank as in gunner seat
 
+for xs ships link all of the above
+
 
 # soundpack installation
 
 unarchive sound archive into `~\Documents\NQ\DualUniverse\audio`
 
+# lua params
+```
+showARCompass: enable AR compass on script startup
+holdBrakeOnInit: hold brakes on script startup
+autoRes: enable auto resistances on script startup
+autoResMode:
+   0 - Set max resists to highest incoming damage type
+   1 - Set 50/50 resists to two highest incoming damage type (Deafult)
+   2 - Set resists in ratio of incoming damage by all types
+autoResMinHitCount: wait N hits before applying auto resists (default 0)
+maxAngularSpeed: set hard limit on your rotational velocity in rads. (default 0 - no limit)
+```
 
 # lua chat commands
 
@@ -35,6 +49,7 @@ addAll - add all visible targets to friendlist
 clearAll - clear saved friendlist
 addID {XXXXXX} - add ID friendlist (needs full ID, not last 3 digits)
 info {pos} - A lot of useful info about coords
+helper - toggle build helper
 ```
 
 AR:
