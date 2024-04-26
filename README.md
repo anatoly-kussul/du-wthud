@@ -2,7 +2,18 @@
 
 PvP/PvE HUD for Dual Universe
 
+BETA 0.7
+
+can also use be used as a flying sctipt for you haulers.
+Highly inspired by simplicity of Albatross hud, has very similar features, like fire-and-forget burn limiter (both in atmo and approaching from space), etc.
+
+![HUD concept](/images/2.png?raw=true)
+
+![HUD concept](/images/3.png?raw=true)
+
 hold left shift (with remote control active) to see controls helper.
+
+# v0.6
 
 ![HUD concept](/images/1.png?raw=true)
 
