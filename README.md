@@ -1,6 +1,6 @@
 # WtHUD
 
-PvP/PvE HUD for Dual Universe
+HUD for Dual Universe (PvP/PvE oriented)
 
 # v0.7 BETA
 
@@ -75,7 +75,6 @@ cleardead [xxx]  -  clears all dead marks if no param specified
 
 # periscope scipt installation
 
-place 2 programming boards and a manual switch.
-Make a link from PB1 to switch and from switch to PB2.
-install `periscope-autofix.json` in PB1, install `programming-board-2.json` in PB2.
-Then you need to manually start the PB1 every time you are flying your ship to have a periscope.
+Place programming board
+Copy `periscope.json` content in clipboard, and then RMB onto prog board and select Advanced->Paste Lua configuration from clipboard
+Then you need to manually start the programming board every time you are flying your ship to have a periscope.
