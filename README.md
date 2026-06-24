@@ -2,12 +2,11 @@
 
 HUD for Dual Universe (PvP/PvE oriented)
 
-# v0.7 BETA
-
-Beta version works properly only on 1920x1080 for now, sorry.
-
-can also use be used as a flying sctipt for you haulers.
+Can also use be used as a flying sctipt for you haulers.
 Highly inspired by simplicity of Albatross hud, has very similar features, like fire-and-forget burn limiter (both in atmo and approaching from space), etc.
+
+
+# v0.7 BETA
 
 ![HUD concept](/images/2.png?raw=true)
 
@@ -15,9 +14,10 @@ Highly inspired by simplicity of Albatross hud, has very similar features, like 
 
 
 # v0.6
-hold left shift (with remote control active) to see controls helper.
+Hold left shift (with remote control active) to see controls helper.
 
 ![HUD concept](/images/1.png?raw=true)
+
 
 # installation
 gunner manual links:
@@ -36,6 +36,7 @@ for xs ships link all of the above
 # soundpack installation
 
 unarchive sound archive into `~\Documents\NQ\DualUniverse\audio`
+
 
 # lua params
 ```
